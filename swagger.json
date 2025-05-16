@@ -20,7 +20,7 @@
       },
       "/temples/": {
         "get": {
-          "description": "API Key if needed: Ezl0961tEpx2UxTZ5v2uKFK91qdNAr5npRlMT1zLcE3Mg68XwZj3N8Dyp1R8IvFenrVwHRllOUxF0Og00l0m9NcaYMtH6Bpgdv7N",
+          "description": "API Key if needed: 9ff959135374d793cd9e7e239091fd84",
           "parameters": [
             {
               "name": "apiKey",
@@ -38,7 +38,7 @@
           }
         },
         "post": {
-          "description": "API Key if needed: Ezl0961tEpx2UxTZ5v2uKFK91qdNAr5npRlMT1zLcE3Mg68XwZj3N8Dyp1R8IvFenrVwHRllOUxF0Og00l0m9NcaYMtH6Bpgdv7N",
+          "description": "API Key if needed: 9ff959135374d793cd9e7e239091fd84",
           "parameters": [
             {
               "name": "body",
@@ -77,7 +77,7 @@
       },
       "/temples/{temple_id}": {
         "get": {
-          "description": "API Key if needed: Ezl0961tEpx2UxTZ5v2uKFK91qdNAr5npRlMT1zLcE3Mg68XwZj3N8Dyp1R8IvFenrVwHRllOUxF0Og00l0m9NcaYMtH6Bpgdv7N",
+          "description": "API Key if needed: 9ff959135374d793cd9e7e239091fd84",
           "parameters": [
             {
               "name": "temple_id",
